@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 """
-saveparticledata module alpha version
+particledata module test version
 
-Created on Thu May 3 2018
+Created on Thu May 17 2018
 
 @author: K. Yoo, 
 Intense Beam and Accelerator Laboratory(IBAL), 
@@ -25,7 +25,7 @@ Republic of Korea
 First, to use this module, it may be convinient locating this file 
 at the same directory with WARP scripts.
 And, this module must be imported in the scripts.
-< e.g. "import saveparticledata as spd" >
+< e.g. "import particledata as pd" >
 """
 
 import os
