@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 """
-fielddata module alpha version
+fielddata module test version
 
-Created on Thu May 3 2018
+Created on Thu May 17 2018
 
 @author: K. Yoo, 
 Intense Beam and Accelerator Laboratory(IBAL), 
